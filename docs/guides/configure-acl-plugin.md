@@ -570,7 +570,7 @@ credentials:
 " | kubectl apply -f -
 ```
 
-The last thing to configure is the ingress to use the new plguins. Note, if you
+The last thing to configure is the ingress to use the new plugins. Note, if you
 set more than one ACL plugin, the last one supplied will be the only one
 evaluated.
 
